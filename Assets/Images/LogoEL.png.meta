@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 653553bb4b11b4be5af8ce3df4894d9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5236026342524253754
+    second: LogoEL_0
+  - first:
+      213: -6721724685680140614
+    second: LogoEL_1
+  - first:
+      213: -6730476020080596573
+    second: LogoEL_2
+  - first:
+      213: -3895810487347948101
+    second: LogoEL_3
+  - first:
+      213: -795683964029003565
+    second: LogoEL_4
+  - first:
+      213: 1230311673097006522
+    second: LogoEL_5
+  - first:
+      213: 4159820383807107793
+    second: LogoEL_6
+  - first:
+      213: -7039263689748645337
+    second: LogoEL_7
+  - first:
+      213: -6974306776898593701
+    second: LogoEL_8
+  - first:
+      213: -6400294106318631904
+    second: LogoEL_9
+  - first:
+      213: 8522447359299930927
+    second: LogoEL_10
+  - first:
+      213: 4858191884092720896
+    second: LogoEL_11
+  - first:
+      213: 6877014256982267884
+    second: LogoEL_12
+  - first:
+      213: 5168296461729125593
+    second: LogoEL_13
+  - first:
+      213: -6879965077567450673
+    second: LogoEL_14
+  - first:
+      213: -473023795454624191
+    second: LogoEL_15
+  - first:
+      213: 4992911541831207499
+    second: LogoEL_16
+  - first:
+      213: -4610858671383457923
+    second: LogoEL_17
+  - first:
+      213: 4266610623977831939
+    second: LogoEL_18
+  - first:
+      213: 5812845389981666257
+    second: LogoEL_19
+  - first:
+      213: -4428034212665301211
+    second: LogoEL_20
+  - first:
+      213: -2438538412521195745
+    second: LogoEL_21
+  - first:
+      213: 4876504371311687203
+    second: LogoEL_22
+  - first:
+      213: 2950078620085268101
+    second: LogoEL_23
+  - first:
+      213: -6018344461656259142
+    second: LogoEL_24
+  - first:
+      213: -6312647589996702779
+    second: LogoEL_25
+  - first:
+      213: 4679997204023938990
+    second: LogoEL_26
+  - first:
+      213: -5197594456958210761
+    second: LogoEL_27
+  - first:
+      213: 1320387472059803218
+    second: LogoEL_28
+  - first:
+      213: -2472399596073048269
+    second: LogoEL_29
+  - first:
+      213: 1117471730241632274
+    second: LogoEL_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LogoEL_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 1021
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36feb4873a1aa840800000000000000
+      internalID: 5236026342524253754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 973
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe9f08f203a7b2a0800000000000000
+      internalID: -6721724685680140614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_2
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 929
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9afc528bb8892a0800000000000000
+      internalID: -6730476020080596573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 912
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5526da00d4fe9c0800000000000000
+      internalID: -3895810487347948101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_4
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 890
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8939286a925f4f0800000000000000
+      internalID: -795683964029003565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_5
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 895
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abda6fdb2f1f21110800000000000000
+      internalID: 1230311673097006522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 890
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d270427996aab930800000000000000
+      internalID: 4159820383807107793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 500
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72af93448f28f4e90800000000000000
+      internalID: -7039263689748645337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 418
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c1c5810f8463f90800000000000000
+      internalID: -6974306776898593701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_9
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 409
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c0ad6ab669d27a0800000000000000
+      internalID: -6400294106318631904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 208
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bc90c28b0d54670800000000000000
+      internalID: 8522447359299930927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_11
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 210
+        width: 43
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007480e57c3cb6340800000000000000
+      internalID: 4858191884092720896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_12
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 210
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce799bed700107f50800000000000000
+      internalID: 6877014256982267884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 207
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4d547cf3a79b740800000000000000
+      internalID: 5168296461729125593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_14
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 312
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1df7ca6347580a0800000000000000
+      internalID: -6879965077567450673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_15
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 209
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ebe9d3d5b7f69f0800000000000000
+      internalID: -473023795454624191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_16
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 248
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a0ccdf7926a4540800000000000000
+      internalID: 4992911541831207499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_17
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 238
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fc8aeb770f200c0800000000000000
+      internalID: -4610858671383457923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_18
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e3b1dc1cb063b30800000000000000
+      internalID: 4266610623977831939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 123
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbcf1c95106ba050800000000000000
+      internalID: 5812845389981666257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_20
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 123
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527eec428567c82c0800000000000000
+      internalID: -4428034212665301211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 124
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f177786db32982ed0800000000000000
+      internalID: -2438538412521195745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_22
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 123
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3263cad83e2dca340800000000000000
+      internalID: 4876504371311687203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_23
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 123
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e28a1ffd8c0f820800000000000000
+      internalID: 2950078620085268101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_24
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 123
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab50a03499b8a7ca0800000000000000
+      internalID: -6018344461656259142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_25
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c355067678f468a0800000000000000
+      internalID: -6312647589996702779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_26
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 152
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf0baf49a0b2f040800000000000000
+      internalID: 4679997204023938990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_27
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 53
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d6772216f6ed7b0800000000000000
+      internalID: -5197594456958210761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_28
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 97
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256200ef865f25210800000000000000
+      internalID: 1320387472059803218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_29
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 38
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3372f3daaa540bdd0800000000000000
+      internalID: -2472399596073048269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEL_30
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 46
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218f7973e9e028f00800000000000000
+      internalID: 1117471730241632274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LogoEL_0: 5236026342524253754
+      LogoEL_1: -6721724685680140614
+      LogoEL_10: 8522447359299930927
+      LogoEL_11: 4858191884092720896
+      LogoEL_12: 6877014256982267884
+      LogoEL_13: 5168296461729125593
+      LogoEL_14: -6879965077567450673
+      LogoEL_15: -473023795454624191
+      LogoEL_16: 4992911541831207499
+      LogoEL_17: -4610858671383457923
+      LogoEL_18: 4266610623977831939
+      LogoEL_19: 5812845389981666257
+      LogoEL_2: -6730476020080596573
+      LogoEL_20: -4428034212665301211
+      LogoEL_21: -2438538412521195745
+      LogoEL_22: 4876504371311687203
+      LogoEL_23: 2950078620085268101
+      LogoEL_24: -6018344461656259142
+      LogoEL_25: -6312647589996702779
+      LogoEL_26: 4679997204023938990
+      LogoEL_27: -5197594456958210761
+      LogoEL_28: 1320387472059803218
+      LogoEL_29: -2472399596073048269
+      LogoEL_3: -3895810487347948101
+      LogoEL_30: 1117471730241632274
+      LogoEL_4: -795683964029003565
+      LogoEL_5: 1230311673097006522
+      LogoEL_6: 4159820383807107793
+      LogoEL_7: -7039263689748645337
+      LogoEL_8: -6974306776898593701
+      LogoEL_9: -6400294106318631904
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
