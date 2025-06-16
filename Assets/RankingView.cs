@@ -20,7 +20,6 @@ public class RankingView : MonoBehaviour
         {
             var newCard = Instantiate(cardPrefab, contentParent);
             // podés personalizar el contenido del card acá
-            
         }
     }
 }
